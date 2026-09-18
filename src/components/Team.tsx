@@ -8,9 +8,6 @@ export function Team() {
       <div className="wrap team__layout">
         <Reveal className="section-copy" as="div">
           <h2>{site.team.title}</h2>
-          <p className="lede" data-status={site.team.introStatus}>
-            {site.team.intro}
-          </p>
         </Reveal>
 
         <div className="team__grid">

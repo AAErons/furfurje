@@ -158,8 +158,6 @@ export const site = {
   ] satisfies Benefit[],
   team: {
     title: "Mūsu grūmeru komanda",
-    intro: "Profesionāli ar lielu mīlestību pret suņiem.",
-    introStatus: "draft" as ContentStatus,
     members: [
       {
         id: "anna",
